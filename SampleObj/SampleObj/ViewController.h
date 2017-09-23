@@ -10,11 +10,9 @@
 
 @interface ViewController : UIViewController<UITextFieldDelegate>
 {
-    
- 
     int Count;
     float floatVar;
-    
+    //Test
     //UIControls
    IBOutlet UILabel *myLbl;
    IBOutlet UITextField *myTxt;
